@@ -57,8 +57,9 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
+    fs.mkdir("./Generated README", {recursive: true}, (err) => console.log(err))
     fs.writeFile(fileName, data, (err) => 
-        err ? console.error(err) : console.log('Success!'))
+        err ? console.error(err) : console.log('Success! You have created a professional README!'))
 };
 
 // TODO: Create a function to initialize app
@@ -67,7 +68,7 @@ function init() {
         .prompt(questions)
         .then((response) => {
             const markdownData = generateMarkdown(response);
-            writeToFile('README.md', markdownData);
+            writeToFile('./Generated README/README.md', markdownData);
         })
         .catch((error) => console.log(error));
 }

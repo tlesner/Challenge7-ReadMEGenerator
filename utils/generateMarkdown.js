@@ -83,7 +83,7 @@ ${renderLicenseBadge(data.license)}
   ${renderLicenseSection(data.license)}
 
 ## Questions
-  - []${data.github}
+  - ${data.github}
   - You can reach me at ${data.email}
 `;
 }
