@@ -20,7 +20,7 @@ This is a command-line application that dynamically generates a professional REA
 Run the application locally by doing the following in your terminal:
 
 1. Clone the repository to your local computer.  
-   <!-- `git clone git@github.com:lwebert/Challenge-07-ReadMe-Generator.git` -->
+   <!-- `git@github.com:tlesner/Challenge7-ReadMEGenerator.git` -->
 2. Check that node.js is installed.  
    `node -v`
 3. Install dependencies.  
@@ -60,9 +60,9 @@ Make local changes to push up.
 
 ## Tests
 
-If the application is working correctly, the message "Successfully created professional README.md file for your project!" should appear in your terminal.
+If the application is working correctly, the message "Success! You have created a professional README!" should appear in your terminal.
 
-<!-- [Click here](https://app.screencastify.com/v3/watch/Rke74KwH8UaNfNGZPPEt) for an example of how the application works! -->
+<!-- [Click here](https://app.screencastify.com/v2/manage/videos/xC2Jid49QYcOrVdMtBY0) for an example of how the application works! -->
 
 ## License
 
