@@ -62,7 +62,7 @@ Make local changes to push up.
 
 If the application is working correctly, the message "Success! You have created a professional README!" should appear in your terminal.
 
-<!-- [Click here](https://app.screencastify.com/v2/manage/videos/xC2Jid49QYcOrVdMtBY0) for an example of how the application works! -->
+[Click here](https://app.screencastify.com/v2/manage/videos/xC2Jid49QYcOrVdMtBY0) for a video of how the application works!
 
 ## License
 
