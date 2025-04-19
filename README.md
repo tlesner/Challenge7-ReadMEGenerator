@@ -17,10 +17,10 @@ This is a command-line application that dynamically generates a professional REA
 
 ## Installation
 
-Run the application locally by doing the following in your terminal:
+Follow the instructions below to view this project:
 
 1. Clone the repository to your local computer.  
-   <!-- `git@github.com:tlesner/Challenge7-ReadMEGenerator.git` -->
+
 2. Check that node.js is installed.  
    `node -v`
 3. Install dependencies.  
@@ -30,8 +30,8 @@ Run the application locally by doing the following in your terminal:
 
 Use this application to generate a professional README.md for your projects. You will need to input the following information:
 
--   Project tilte
--   Description
+-   Project title
+-   Description of your project
 -   Installation instructions
 -   Usage information
 -   Contribution guidelines
