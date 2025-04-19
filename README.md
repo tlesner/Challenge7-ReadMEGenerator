@@ -73,3 +73,7 @@ https://www.mozilla.org/en-US/MPL/2.0/
 
 -   GitHub username: [tlesner](https://github.com/tlesner).
 -   Reach me at [tjlesner@gmail.com](tjlesner@gmail.com) with additional questions.
+
+## Credit
+
+-Special thanks to [lwebert](https://github.com/lwebert) for assistance in completion of this projects and proofreading of this code.
