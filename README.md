@@ -45,7 +45,7 @@ To run the application, use the following command in your terminal:
 
 ## Contributing
 
-This application was developed by Lauren Webert. Here are some guidelines on ways to contribute:
+This application was developed by Thomas Lesner. Here are some guidelines on ways to contribute:
 
 Report a bug fix.
 
